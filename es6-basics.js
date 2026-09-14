@@ -5,22 +5,22 @@ const user = "Zain"; // fix rahega
 let score = 100; // game mein change hoga
 
 // Concept 2: Arrow Functions
-// function add(a, b) {
-//   return a + b;
-// }
+function add(a, b) {
+  return a + b;
+}
 
-// // modern way
-// const add = (a, b) => {
-//   return a + b;
-// };
+// modern way
+const add = (a, b) => {
+  return a + b;
+};
 
-// // shortcut
-// const square = (a, b) => a + b;
+// shortcut
+const square = (a, b) => a + b;
 
-// const number = (n) => n * 3;
-// const num = (n) => n * 3;
+const number = (n) => n * 3;
+const num = (n) => n * 3;
 
-// const greet = () => "Hello Zain";
+const greet = () => "Hello Zain";
 
 const multiple = (a, b) => {
   return a + b;
