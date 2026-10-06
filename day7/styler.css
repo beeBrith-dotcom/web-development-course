@@ -1,0 +1,27 @@
+/* todo: elemant/Tags Selecter */
+h1 {
+  background-color: aquamarine;
+}
+
+ul {
+  background-color: gray;
+}
+
+/* todo: id base selecter */
+
+#exercise {
+  font-weight: bold;
+}
+
+/* todo: class base selector */
+.try {
+  background-color: rgb(46, 10, 51);
+}
+
+/* todo: group base selection */
+
+h1,
+.try,
+#exercise {
+  font-size: 22px;
+}
